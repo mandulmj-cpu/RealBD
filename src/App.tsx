@@ -56,8 +56,8 @@ export default function App() {
                   
                   <p className="text-[16px] font-semibold leading-relaxed opacity-95 border-l-2 border-[#51ABF3] pl-3">
                     멀리 가지 않아도 충분합니다.<br/>
-                    오직 <span className="font-bold text-[#51ABF3]">이민주 마리트 투어</span>에서만 만나는<br/>
-                    블랙스완 & 코스탈 워크 단독 특가!
+                    오직 <span className="font-bold text-[#51ABF3]">마이리얼트립 투어</span>에서만 만나는<br/>
+                    블랙스완 & 코스탈 워크 반나절 투어 오픈!
                   </p>
                 </div>
               </div>
